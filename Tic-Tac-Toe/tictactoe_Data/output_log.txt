@@ -1,0 +1,53 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 560 Series (ID=0x67ef)
+    Vendor:   ATI
+    VRAM:     4076 MB
+    Driver:   25.20.15011.1004
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Tic-Tac-Toe\tictactoe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Tic-Tac-Toe\tictactoe_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\TextMeshPro-2017.1-1.0.56-Runtime.dll (this message is harmless)
+Loading D:\Tic-Tac-Toe\tictactoe_Data\Managed\TextMeshPro-2017.1-1.0.56-Runtime.dll into Unity Child Domain
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Tic-Tac-Toe\tictactoe_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.022 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.816927 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4c08 -> priority: 1 
+  Thread -> id: 151c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.727653 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 561.
+Total: 0.449037 ms (FindLiveObjects: 0.035923 ms CreateObjectMapping: 0.016357 ms MarkObjects: 0.373342 ms  DeleteObjects: 0.022772 ms)
+
+Player 0 won!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.834281 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 3.532642 ms (FindLiveObjects: 0.092373 ms CreateObjectMapping: 0.052601 ms MarkObjects: 3.265144 ms  DeleteObjects: 0.120598 ms)
+
+QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
